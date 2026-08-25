@@ -1,0 +1,4 @@
+*.exe
+*.agorc
+/agor
+web/node_modules/
